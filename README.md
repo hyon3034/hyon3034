@@ -10,6 +10,7 @@
 
 ## Contacts
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/403898798016823307)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hyon3034@gmail.com")
 
 ## Languages
 <div>
