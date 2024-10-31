@@ -1,7 +1,6 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd400&height=300&section=header&text=Hello!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd400&height=300&section=header&text=Hello!&fontSize=70">
 </p>
-<br>
 
 ## About Me 😁
 |![hyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyon3034&show_icons=true&theme=gruvbox)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyon3034&layout=compact)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whatisthat)](https://solved.ac/whatisthat/)|
