@@ -6,13 +6,14 @@
 |![hyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyon3034&show_icons=true&theme=gruvbox)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyon3034&layout=compact)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whatisthat)](https://solved.ac/whatisthat/)|
 |---|---|---|
 
-- 👩‍💻 I'm a Game Developer
+- 👾 I am majoring in software at Chonnam National University
+  
 
-## Contacts
+## Contacts 📨
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/403898798016823307)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hyon3034@gmail.com&su=SUBJECT&body=BODY&bcc=hyon3034@naver.com)
 
-## Languages
+## Languages 🖥️
 <div>
     <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
