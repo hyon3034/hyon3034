@@ -2,24 +2,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd400&height=300&section=header&text=Hello!&fontSize=70">
 </p>
 
-## About Me 😁
+## 😁 About Me
 |![hyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyon3034&show_icons=true&theme=gruvbox)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyon3034&layout=compact)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whatisthat)](https://solved.ac/whatisthat/)|
 |---|---|---|
 
-- 👾 I am majoring in software at Chonnam National University
+&emsp; 👾 I am majoring in software at Chonnam National University
   
+&emsp; 📝 I am running a tech blog &emsp; 👉 [BLOG](https://blog.naver.com/hyon3034)
+<br/>
+<br/>
 
-## Contacts 📨
+## 🌐 Contacts 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/403898798016823307)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hyon3034@gmail.com&su=SUBJECT&body=BODY&bcc=hyon3034@naver.com)
+<br/>
+<br/>
 
-## Languages 🖥️
+## 🖥️ Languages
 <div>
     <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
+<br/>
 
-## Tools 🛠
+## 🛠 Tools
 <div>
     <img src ="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
     <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
