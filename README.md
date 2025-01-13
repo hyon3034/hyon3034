@@ -8,7 +8,7 @@
 
 &emsp; 👾 I am majoring in software at Chonnam National University
   
-&emsp; 📝 I am running a tech blog &emsp; 👉 [BLOG](https://blog.naver.com/hyon3034)
+&emsp; 📝 I am running a tech blog &emsp; 👉 [BLOG](https://hyon123.tistory.com)
 <br/>
 <br/>
 
